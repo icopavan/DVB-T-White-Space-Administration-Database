@@ -1,0 +1,11 @@
+DVB-T White Space Administrative database based on ITU-R P1546 recommendation "Method for point-to-area predictions for terrestrial services in the frequency range 30 MHz to 3 000 MHz". Demonstration of white space database accessible at http://kudos.estud.eu.
+
+Project summary:
+-----------------
+
++ drawmap - very simple application written in JAVA used for radio channel utilization map generation
+
++ radio - application written in JAVA used for DVB-T signal calculations based on P1546 recommendations and HCM topographical database downloadable at http://hcm.bundesnetzagentur.de/http/deutsch/verwaltung/index_hcm_topogra.htm
+
++frontend - written in PHP
+
